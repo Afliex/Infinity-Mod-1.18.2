@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infinitymod:infinity_block"
+    }
+  ],
+  "result": {
+    "item": "infinitymod:infinity_orb",
+    "count": 9
+  }
+}
