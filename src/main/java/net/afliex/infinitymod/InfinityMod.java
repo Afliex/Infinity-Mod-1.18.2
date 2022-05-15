@@ -1,5 +1,6 @@
 package net.afliex.infinitymod;
 
+import net.afliex.infinitymod.block.ModBlocks;
 import net.afliex.infinitymod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,6 +14,7 @@ public class InfinityMod implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
