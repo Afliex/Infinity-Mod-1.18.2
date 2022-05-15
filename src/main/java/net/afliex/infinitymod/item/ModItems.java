@@ -11,6 +11,9 @@ public class ModItems {
     public static final Item INFINITY_ORB = registerItem("infinity_orb",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
+    public static final Item MELTED_ORB = registerItem("melted_orb",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
 
 
     private static Item registerItem(String name, Item item) {

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "infinity_orb",
+  "ingredient": {
+    "item": "infinitymod:melted_orb"
+  },
+  "result": "infinitymod:infinity_orb",
+  "experience": 3.5,
+  "cookingtime": 120000
+}
